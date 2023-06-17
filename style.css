@@ -13,7 +13,7 @@ h1{
 }
 
 .galeria-de-fotos{
-    column-count: 4;
+    column-count: 3;
     column-gap: 10px;
 }
 
